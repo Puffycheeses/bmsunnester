@@ -1,0 +1,13 @@
+{
+  "name": "bmsnestfixer",
+  "version": "1.0.0",
+  "description": "UnNest BMS directories",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["BMS"],
+  "author": "pfych (contact@pfy.ch)",
+  "license": "GPL-3"
+}
